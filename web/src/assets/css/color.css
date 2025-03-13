@@ -1,0 +1,19 @@
+:root {
+    --color-text: #2c3e50;
+    --color-theme: #00505A;
+    --color-dark-theme: #00393F;
+    --color-light: #91cbf3;
+    --color-light-gray: #eeeeee;
+    --color-dark-gray: #888888;
+    --color-gray: #cccccc;
+    --color-white: #F6FFFF;
+    --color-tour-state-code-cancel: #C11F34;
+    --color-green: #008899;
+    --color-blue: #005c99;
+    --color-red: #C11F34;
+    --color-orange: #FFA500;
+    --color-tour-state-code-assigned: #00990d;
+    --color-tour-state-code-incomplete: #b9b603;
+    --color-tour-state-code-complete: #005c99;
+    --default-radius: .5em;
+}

@@ -1,0 +1,155 @@
+# Logfile created on 2024-11-06 05:55:36 +0000 by logger.rb/v1.5.0
+I, [2024-11-06T05:55:48.175564 #9]  INFO -- : Loading Crono 2.0.0
+I, [2024-11-06T05:55:48.176050 #9]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-11-06T05:55:48.176247 #9]  INFO -- : Jobs:
+I, [2024-11-06T05:55:48.176497 #9]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-11-07 01:00:00 UTC
+I, [2024-11-06T07:08:54.678613 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-11-06T07:08:54.679213 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-11-06T07:08:54.680738 #8]  INFO -- : Jobs:
+I, [2024-11-06T07:08:54.681150 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-11-07 01:00:00 UTC
+I, [2024-11-12T02:07:45.523982 #9]  INFO -- : Loading Crono 2.0.0
+I, [2024-11-12T02:07:45.524639 #9]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-11-12T02:07:45.530979 #9]  INFO -- : Jobs:
+I, [2024-11-12T02:07:45.535690 #9]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-11-13 01:00:00 UTC
+I, [2024-11-12T02:17:21.083359 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-11-12T02:17:21.084644 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-11-12T02:17:21.084847 #8]  INFO -- : Jobs:
+I, [2024-11-12T02:17:21.085091 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-11-13 01:00:00 UTC
+I, [2024-11-12T07:45:09.966953 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-11-12T07:45:09.967450 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-11-12T07:45:09.967799 #8]  INFO -- : Jobs:
+I, [2024-11-12T07:45:09.968155 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-11-13 01:00:00 UTC
+I, [2024-11-13T00:12:10.786130 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-11-13T00:12:10.786859 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-11-13T00:12:10.787123 #8]  INFO -- : Jobs:
+I, [2024-11-13T00:12:10.787457 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-11-13 01:00:00 UTC
+I, [2024-11-13T00:59:59.917340 #25]  INFO -- : Perform RemindNotify
+I, [2024-11-13T01:00:00.039687 #25]  INFO -- : Finished RemindNotify in 0.12 seconds
+I, [2024-12-03T00:05:48.020201 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-03T00:05:48.021193 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-03T00:05:48.021442 #8]  INFO -- : Jobs:
+I, [2024-12-03T00:05:48.021754 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-03 00:05:48 UTC
+I, [2024-12-03T00:05:48.225056 #25]  INFO -- : Perform RemindNotify
+I, [2024-12-03T00:05:48.247386 #25]  INFO -- : Finished RemindNotify in 0.02 seconds
+I, [2024-12-09T01:22:10.359700 #7]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-09T01:22:10.360494 #7]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-09T01:22:10.360807 #7]  INFO -- : Jobs:
+I, [2024-12-09T01:22:10.361187 #7]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-09 01:22:10 UTC
+I, [2024-12-09T01:22:10.514638 #24]  INFO -- : Perform RemindNotify
+I, [2024-12-09T01:22:10.536129 #24]  INFO -- : Finished RemindNotify in 0.02 seconds
+I, [2024-12-10T03:37:45.585798 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-10T03:37:45.586563 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-10T03:37:45.586790 #8]  INFO -- : Jobs:
+I, [2024-12-10T03:37:45.587302 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-10 03:37:45 UTC
+I, [2024-12-10T03:37:45.714527 #25]  INFO -- : Perform RemindNotify
+I, [2024-12-10T03:37:45.729212 #25]  INFO -- : Finished RemindNotify in 0.01 seconds
+I, [2024-12-10T07:03:53.717587 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-10T07:03:53.718216 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-10T07:03:53.718519 #8]  INFO -- : Jobs:
+I, [2024-12-10T07:03:53.718780 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-11 01:00:00 UTC
+I, [2024-12-11T00:38:17.407035 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-11T00:38:17.408067 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-11T00:38:17.408536 #8]  INFO -- : Jobs:
+I, [2024-12-11T00:38:17.409020 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-11 01:00:00 UTC
+I, [2024-12-11T01:00:00.022424 #25]  INFO -- : Perform RemindNotify
+I, [2024-12-11T01:00:00.050103 #25]  INFO -- : Finished RemindNotify in 0.03 seconds
+I, [2024-12-11T09:35:18.903417 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-11T09:35:18.904461 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-11T09:35:18.904848 #8]  INFO -- : Jobs:
+I, [2024-12-11T09:35:18.905393 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-12 01:00:00 UTC
+I, [2024-12-11T10:06:47.995621 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-11T10:06:47.995944 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-11T10:06:47.996144 #8]  INFO -- : Jobs:
+I, [2024-12-11T10:06:47.996509 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-12 01:00:00 UTC
+I, [2024-12-11T10:28:35.586757 #9]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-11T10:28:35.587386 #9]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-11T10:28:35.587531 #9]  INFO -- : Jobs:
+I, [2024-12-11T10:28:35.587794 #9]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-12 01:00:00 UTC
+I, [2024-12-12T00:16:34.897796 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-12T00:16:34.898825 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-12T00:16:34.899294 #8]  INFO -- : Jobs:
+I, [2024-12-12T00:16:34.899787 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-12 01:00:00 UTC
+I, [2024-12-12T00:59:59.979154 #25]  INFO -- : Perform RemindNotify
+I, [2024-12-12T01:00:00.297825 #25]  INFO -- : Finished RemindNotify in 0.30 seconds
+I, [2024-12-15T23:59:46.419205 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-15T23:59:46.420124 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-15T23:59:46.420409 #8]  INFO -- : Jobs:
+I, [2024-12-15T23:59:46.420743 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-15 23:59:46 UTC
+I, [2024-12-15T23:59:46.505693 #25]  INFO -- : Perform RemindNotify
+I, [2024-12-15T23:59:48.470222 #25]  INFO -- : Finished RemindNotify in 1.96 seconds
+I, [2024-12-16T00:59:59.921408 #25]  INFO -- : Perform RemindNotify
+I, [2024-12-16T01:00:00.027021 #25]  INFO -- : Finished RemindNotify in 0.10 seconds
+I, [2024-12-24T01:33:17.650082 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-24T01:33:17.650793 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-24T01:33:17.651142 #8]  INFO -- : Jobs:
+I, [2024-12-24T01:33:17.651563 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-24 01:33:17 UTC
+I, [2024-12-24T01:33:17.753809 #25]  INFO -- : Perform RemindNotify
+I, [2024-12-24T01:33:17.795787 #25]  INFO -- : Finished RemindNotify in 0.04 seconds
+I, [2024-12-24T06:05:07.689117 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-24T06:05:07.692349 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-24T06:05:07.692810 #8]  INFO -- : Jobs:
+I, [2024-12-24T06:05:07.693040 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-25 01:00:00 UTC
+I, [2024-12-24T07:23:41.605660 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-24T07:23:41.606387 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-24T07:23:41.606760 #8]  INFO -- : Jobs:
+I, [2024-12-24T07:23:41.607255 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-25 01:00:00 UTC
+I, [2024-12-25T01:26:55.250808 #8]  INFO -- : Loading Crono 2.0.0
+I, [2024-12-25T01:26:55.251361 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2024-12-25T01:26:55.251594 #8]  INFO -- : Jobs:
+I, [2024-12-25T01:26:55.251893 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2024-12-25 01:26:55 UTC
+I, [2024-12-25T01:26:55.388230 #25]  INFO -- : Perform RemindNotify
+I, [2024-12-25T01:26:55.407053 #25]  INFO -- : Finished RemindNotify in 0.02 seconds
+I, [2025-01-08T05:29:31.060434 #8]  INFO -- : Loading Crono 2.0.0
+I, [2025-01-08T05:29:31.061215 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-01-08T05:29:31.061451 #8]  INFO -- : Jobs:
+I, [2025-01-08T05:29:31.061806 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-01-08 05:29:31 UTC
+I, [2025-01-08T05:29:31.198467 #25]  INFO -- : Perform RemindNotify
+I, [2025-01-08T05:29:31.225611 #25]  INFO -- : Finished RemindNotify in 0.03 seconds
+I, [2025-01-14T07:50:35.432087 #8]  INFO -- : Loading Crono 2.0.0
+I, [2025-01-14T07:50:35.432913 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-01-14T07:50:35.433159 #8]  INFO -- : Jobs:
+I, [2025-01-14T07:50:35.433631 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-01-14 07:50:35 UTC
+I, [2025-01-14T07:50:35.582562 #25]  INFO -- : Perform RemindNotify
+I, [2025-01-14T07:50:35.598855 #25]  INFO -- : Finished RemindNotify in 0.02 seconds
+I, [2025-01-15T00:52:55.885260 #8]  INFO -- : Loading Crono 2.0.0
+I, [2025-01-15T00:52:55.885738 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-01-15T00:52:55.885970 #8]  INFO -- : Jobs:
+I, [2025-01-15T00:52:55.886254 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-01-15 01:00:00 UTC
+I, [2025-01-15T01:00:00.069890 #25]  INFO -- : Perform RemindNotify
+I, [2025-01-15T01:00:00.103106 #25]  INFO -- : Finished RemindNotify in 0.03 seconds
+I, [2025-01-15T03:59:52.105636 #8]  INFO -- : Loading Crono 2.0.0
+I, [2025-01-15T03:59:52.106390 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-01-15T03:59:52.106794 #8]  INFO -- : Jobs:
+I, [2025-01-15T03:59:52.107206 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-01-16 01:00:00 UTC
+I, [2025-01-16T02:05:53.244081 #8]  INFO -- : Loading Crono 2.0.0
+I, [2025-01-16T02:05:53.244781 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-01-16T02:05:53.245042 #8]  INFO -- : Jobs:
+I, [2025-01-16T02:05:53.245463 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-01-16 02:05:53 UTC
+I, [2025-01-16T02:05:53.390684 #25]  INFO -- : Perform RemindNotify
+I, [2025-01-16T02:05:53.410948 #25]  INFO -- : Finished RemindNotify in 0.02 seconds
+I, [2025-01-16T03:16:45.124130 #8]  INFO -- : Loading Crono 2.0.0
+I, [2025-01-16T03:16:45.124779 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-01-16T03:16:45.124981 #8]  INFO -- : Jobs:
+I, [2025-01-16T03:16:45.125224 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-01-17 01:00:00 UTC
+I, [2025-01-31T00:49:05.409212 #8]  INFO -- : Loading Crono 2.0.0
+I, [2025-01-31T00:49:05.409896 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-01-31T00:49:05.410259 #8]  INFO -- : Jobs:
+I, [2025-01-31T00:49:05.410546 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-01-31 00:49:05 UTC
+I, [2025-01-31T00:49:05.617113 #25]  INFO -- : Perform RemindNotify
+I, [2025-01-31T00:49:05.643969 #25]  INFO -- : Finished RemindNotify in 0.03 seconds
+I, [2025-01-31T00:53:46.325294 #9]  INFO -- : Loading Crono 2.0.0
+I, [2025-01-31T00:53:46.325977 #9]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-01-31T00:53:46.326261 #9]  INFO -- : Jobs:
+I, [2025-01-31T00:53:46.326618 #9]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-02-01 01:00:00 UTC
+I, [2025-02-01T07:44:33.565979 #8]  INFO -- : Loading Crono 2.0.0
+I, [2025-02-01T07:44:33.566636 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-02-01T07:44:33.566920 #8]  INFO -- : Jobs:
+I, [2025-02-01T07:44:33.567216 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-02-01 07:44:33 UTC
+I, [2025-02-01T07:44:33.732122 #25]  INFO -- : Perform RemindNotify
+I, [2025-02-01T07:44:33.750071 #25]  INFO -- : Finished RemindNotify in 0.02 seconds
+I, [2025-03-12T00:38:44.363220 #8]  INFO -- : Loading Crono 2.0.0
+I, [2025-03-12T00:38:44.364254 #8]  INFO -- : Running in ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
+I, [2025-03-12T00:38:44.364642 #8]  INFO -- : Jobs:
+I, [2025-03-12T00:38:44.365330 #8]  INFO -- : 'RemindNotify' with rule 'every 1 day at 01:00' next time will perform at 2025-03-12 00:38:44 UTC
+I, [2025-03-12T00:38:44.620222 #25]  INFO -- : Perform RemindNotify
+I, [2025-03-12T00:38:44.654648 #25]  INFO -- : Finished RemindNotify in 0.03 seconds

@@ -1,0 +1,19 @@
+<%= @guide.name %>様
+
+<%= @body %>
+
+<%= @url %>
+
+<%= @body2 %>
+
+ツアー名：<%= @tour.name %>
+日程：<%= @tour.start_datetime.strftime('%Y/%m/%d %H:%M') %> ～ <%= @tour.end_datetime.strftime('%Y/%m/%d %H:%M') %>
+<% unless @tour.schedule_input_deadline.nil? then %>
+入力期限：<%= @tour.schedule_input_deadline.strftime('%Y/%m/%d') %>
+<% end %>
+<% if @tour.memo != "" then %>
+
+<%= @tour.memo %>
+<% end %>
+
+<%= @body3 %>

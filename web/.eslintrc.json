@@ -1,0 +1,33 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": [
+        "plugin:vue/essential",
+        "airbnb-base",
+        "prettier",
+        "plugin:prettier/recommended"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 12,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "vue",
+        "prettier"
+    ],
+    "rules": {
+        "linebreak-style": "off",
+        "import/extensions": "off",
+        "import/no-unresolved": "off",
+        "no-param-reassign": "off",
+        "vue/no-side-effects-in-computed-properties": "off",
+        "vue/no-parsing-error": "off",
+        "no-restricted-syntax": "off",
+        "no-alert": "off",
+        "camelcase": "off",
+        "no-return-assign": "off",
+        "no-continue": "off"
+    }
+}

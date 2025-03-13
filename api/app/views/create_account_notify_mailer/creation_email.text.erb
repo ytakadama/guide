@@ -1,0 +1,11 @@
+<%= @account.name %>様
+
+<%= @body %>
+
+メールアドレス： <%= @account.email =%>
+<% if @password != nil then %>
+
+パスワード: <%= @password =%>
+
+<%= @body3 %>
+<% end %>
